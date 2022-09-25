@@ -1,0 +1,56 @@
+.eachList {
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+.addBtn {
+    border: 0;
+    color: #4d4d4d;
+    width: 60px;
+    cursor: pointer;
+    background-color: white;
+    font-weight: bold;
+    padding: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    float: right; 
+}
+
+.Label{
+    margin: auto;
+    width: 560px;
+    line-height: 1.2;
+    border-top: 2px solid #F6F6F6;
+    background: rgba(0, 0, 0, 0.003);
+    background-color: white;
+    font-size: 25px;
+    font-family: inherit;
+    font-weight: 100;
+    outline: none;
+    
+}
+
+.eachInput {
+  margin-top: 25px;
+  margin-left: 15px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+.todoForm{
+    text-align: center;
+}
+.headerInput {
+    padding-left: 20px;
+    width: 500px;
+    height: 50px;
+    border: 0px;
+    box-sizing: border-box;
+    outline: none;
+    
+}
+
+.headerBtn{
+    width: 60px;
+    height: 50px;
+    border: 0px;
+    background-color: #ACACAC;
+}
